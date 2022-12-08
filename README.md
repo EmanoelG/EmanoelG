@@ -11,7 +11,7 @@
     ![@log](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ](https://www.instagram.com/e_emanoel_/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![EmanoelG GitHub stats](https://github-readme-stats.vercel.app/api?username=EmanoelG&show_icons=true&theme=radical)
 
 ### Tecnlogias do meu dia a dia
 <div style="display: inline_bloc">

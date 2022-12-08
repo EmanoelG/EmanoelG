@@ -12,7 +12,6 @@
 ](https://www.instagram.com/e_emanoel_/)
 
 ![EmanoelG GitHub stats](https://github-readme-stats.vercel.app/api?username=EmanoelG&show_icons=true&theme=radical)
-<br></br>
 ### Tecnlogias do meu dia a dia
 <div style="display: inline_bloc"><br/>
  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> 

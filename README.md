@@ -13,7 +13,7 @@
 
 ![EmanoelG GitHub stats](https://github-readme-stats.vercel.app/api?username=EmanoelG&show_icons=true&theme=radical)
 ### Tecnlogias do meu dia a dia
-<div style="display: inline_bloc"><br/>
+<div style="display: inline_bloc">
  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> 
  <img alt="Flutter" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> 
  <img alt="Flutter" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> 

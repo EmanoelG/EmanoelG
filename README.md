@@ -11,4 +11,31 @@
     ![@log](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ](https://www.instagram.com/e_emanoel_/)
 
-![EmanoelG GitHub stats](https://github-readme-stats.vercel.app/api?username=EmanoelG&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+### Tecnlogias do meu dia a dia
+<div style="display: inline_bloc">
+ <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> 
+</div>
+
+<div style="display: inline_bloc">
+ <img alt="Flutter" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> 
+</div>
+
+<div style="display: inline_bloc">
+ <img alt="Flutter" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
+</div>
+
+
+<div style="display: inline_bloc">
+ <img alt="Flutter" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> 
+</div>
+
+<div style="display: inline_bloc">
+ <img alt="Flutter" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> 
+</div>
+
+<div style="display: inline_bloc">
+ <img alt="Flutter" src="https://dtffvb2501i0o.cloudfront.net/images/logos/delphi-logo-64.webp"/> 
+</div>
+

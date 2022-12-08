@@ -14,6 +14,7 @@
 <ul>
 
 ![EmanoelG GitHub stats](https://github-readme-stats.vercel.app/api?username=EmanoelG&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanoelG)](https://github.com/anuraghazra/github-readme-stats)
 </ul>
 <br><br/>
@@ -26,6 +27,9 @@
  <img alt="Flutter" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> 
  <img alt="Flutter" src="https://dtffvb2501i0o.cloudfront.net/images/logos/delphi-logo-64.webp"/> 
 </div>
+
+
+
 
 
 

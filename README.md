@@ -12,11 +12,12 @@
 ](https://www.instagram.com/e_emanoel_/)
 <br><br/>
 <ul>
-
+<div align="center">
 <a href="https://github.com/EmanoelG">
     <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EmanoelG&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EmanoelG&layout=compact&langs_count=7&theme=merko" />
   </a>
+<div/>
 
 ### Tecnlogias do meu dia a dia
 <div style="display: inline_bloc">

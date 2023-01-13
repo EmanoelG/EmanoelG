@@ -13,8 +13,6 @@
 <br><br/>
 <ul>
 
-
-
 [![EmanoelG GitHub stats-Light](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EmanoelG&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/EmanoelG/github-readme-stats#gh-light-mode-only)
 
 ### Tecnlogias do meu dia a dia

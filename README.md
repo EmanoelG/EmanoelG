@@ -15,8 +15,7 @@
 
 ![EmanoelG GitHub stats](https://github-readme-stats.vercel.app/api?username=EmanoelG&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanoelG)](https://github.com/EmanoelG)
-</ul>
+![EmanoelG GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ### Tecnlogias do meu dia a dia
 <div style="display: inline_bloc">

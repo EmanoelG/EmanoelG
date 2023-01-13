@@ -13,9 +13,9 @@
 <br><br/>
 <ul>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![Anurag's GitHub stats-Light](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![EmanoelG GitHub stats-Light](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EmanoelG&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/EmanoelG/github-readme-stats#gh-light-mode-only)
 
 ### Tecnlogias do meu dia a dia
 <div style="display: inline_bloc">

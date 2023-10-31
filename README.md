@@ -27,6 +27,8 @@
  <img alt="Flutter" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> 
  <img alt="Flutter" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> 
  <img alt="Flutter" src="https://dtffvb2501i0o.cloudfront.net/images/logos/delphi-logo-64.webp"/> 
+ <img alt="Flutter" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"/> 
+   
 </div>
 
 

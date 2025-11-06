@@ -7,10 +7,7 @@
     ![@log](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ](https://www.linkedin.com/in/emanoel-galv%C3%A3o-da-silva-5955811b3/)
 
-[
-    ![@log](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-](https://www.instagram.com/e_emanoel_/)
-<br><br/>
+
 <ul>
 <div align="center">
 <a href="https://github.com/EmanoelG">

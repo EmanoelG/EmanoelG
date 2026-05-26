@@ -35,23 +35,11 @@ Apaixonado por tecnologia, arquitetura de software, APIs, Flutter e desenvolvime
 
 ---
 
-## 📈 GitHub Stats
+## 🐍 Contribuições
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmanoelG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanoelG&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=EmanoelG&theme=tokyonight&hide_border=false"/>
+<img src="https://raw.githubusercontent.com/EmanoelG/EmanoelG/output/github-contribution-grid-snake.svg"/>
 
 </div>
 

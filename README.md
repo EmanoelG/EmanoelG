@@ -9,7 +9,7 @@ Apaixonado por tecnologia, arquitetura de software, APIs, Flutter e desenvolvime
 ## 🚀 Sobre mim
 
 - 📱 Desenvolvedor Flutter
-- ☕ Desenvolvedor Java / Spring Boot
+- ☕ Desenvolvedor ASP.NET 
 - 🐘 PostgreSQL & SQLite
 - 🧠 Clean Architecture & MVVM
 - 🔥 APIs REST & Microsserviços

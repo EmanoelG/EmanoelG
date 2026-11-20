@@ -1,6 +1,4 @@
-# 👨‍💻 Emanoel Galvão - CEO Shop City 
-
-https://shoppingcity.app.br/
+# 👨‍💻 Emanoel Galvão 
 
 ### Desenvolvedor Mobile & Backend
 
